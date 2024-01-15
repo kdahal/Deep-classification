@@ -160,3 +160,4 @@ cgit ython_debug/
 #.idea/
 
 artifacts/*
+.cancer/*
