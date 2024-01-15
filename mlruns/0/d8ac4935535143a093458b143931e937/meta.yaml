@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLproject/Deep-classification/mlruns/0/d8ac4935535143a093458b143931e937/artifacts
+end_time: 1705361458717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8ac4935535143a093458b143931e937
+run_name: delightful-duck-221
+run_uuid: d8ac4935535143a093458b143931e937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705361438805
+status: 3
+tags: []
+user_id: kumar

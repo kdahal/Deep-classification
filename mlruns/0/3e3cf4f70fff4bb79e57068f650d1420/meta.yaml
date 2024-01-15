@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLproject/Deep-classification/mlruns/0/3e3cf4f70fff4bb79e57068f650d1420/artifacts
+end_time: 1705360274213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e3cf4f70fff4bb79e57068f650d1420
+run_name: rebellious-snipe-108
+run_uuid: 3e3cf4f70fff4bb79e57068f650d1420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705360252779
+status: 3
+tags: []
+user_id: kumar
