@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLproject/Deep-classification/mlruns/0/fe5b4d2602d04bcd90ee0d6411c58207/artifacts
+end_time: 1705363449524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe5b4d2602d04bcd90ee0d6411c58207
+run_name: nosy-auk-567
+run_uuid: fe5b4d2602d04bcd90ee0d6411c58207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705363434173
+status: 3
+tags: []
+user_id: kumar
